@@ -1,0 +1,16 @@
+export const gods = {
+    1: 'Praios',
+    2: 'Rondra',
+    3: 'Efferd',
+    4: 'Travia',
+    5: 'Boron',
+    6: 'Hesinde',
+    7: 'Firun',
+    8: 'Tsa',
+    9: 'Phex',
+    10: 'Peraine',
+    11: 'Ingerimm',
+    12: 'Rahja',
+    13: 'Swafnir',
+    14: 'Ifirn',
+}

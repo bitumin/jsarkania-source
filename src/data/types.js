@@ -1,0 +1,15 @@
+export const types = {
+    0: 'None',
+    1: 'Jester',
+    2: 'Hunter',
+    3: 'Warrior',
+    4: 'Rogue',
+    5: 'Thorwalian',
+    6: 'Dwarves',
+    7: 'Warlock',
+    8: 'Druid',
+    9: 'Magician',
+    10: 'Green Elf',
+    11: 'Ice Elf',
+    12: 'Sylvan Elf',
+}
