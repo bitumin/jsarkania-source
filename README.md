@@ -28,6 +28,12 @@ To create an optimised version of the app:
 npm run build
 ```
 
+## Credits
+
+- ws007 (offsets and notes)
+- Furiat (more offsets and corrections)
+- [https://www.gog.com/forum/realms_of_arkania_series/realms_of_arkania_1_character_mechanics_hex_edit_info](https://www.gog.com/forum/realms_of_arkania_series/realms_of_arkania_1_character_mechanics_hex_edit_info)
+
 ## License
 
-(GPL-3.0)[https://www.gnu.org/licenses/gpl-3.0.html]
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
