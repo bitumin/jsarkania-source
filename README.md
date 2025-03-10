@@ -30,8 +30,9 @@ npm run build
 
 ## Credits
 
-- ws007 (offsets and notes)
+- MagneticMagpie (offsets and notes)
 - Furiat (more offsets and corrections)
+- wss007 (some more notes)
 - [https://www.gog.com/forum/realms_of_arkania_series/realms_of_arkania_1_character_mechanics_hex_edit_info](https://www.gog.com/forum/realms_of_arkania_series/realms_of_arkania_1_character_mechanics_hex_edit_info)
 
 ## License

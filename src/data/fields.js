@@ -263,7 +263,7 @@ export const fields = {
  *     Rahja: +1 Dance, Seduce, Instrument
  *
  * Credits:
- * - ws007 (offsets and notes)
- * - Furiat (offsets corrections and some additions)
+ * - MagneticMagpie (offsets and notes)
+ * - Furiat (more offsets and corrections)
  * - https://www.gog.com/forum/realms_of_arkania_series/realms_of_arkania_1_character_mechanics_hex_edit_info
  */
